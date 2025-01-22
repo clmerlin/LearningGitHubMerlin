@@ -1,3 +1,7 @@
 # LearningGitHubMerlin
 
-This is a description for the readme file.
+<h1 align="center">
+My Raiders blog.
+</h1>
+
+This is just a boring place holder.
